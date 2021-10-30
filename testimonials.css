@@ -25,8 +25,8 @@ main {
 }
 
 .container {
-    width: 70%;
-    height: 75%;
+    width: 75%;
+    height: 65%;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr;
